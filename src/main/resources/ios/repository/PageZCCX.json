@@ -1,0 +1,55 @@
+{
+	"oTitleRMB": 
+	{
+		"in": "ptjy/zccx/ptjy_zccx.html",
+		"bys": 
+		[
+			"xpath:////li[text()='人民币']"
+		]
+	},
+
+	"oTitleHKD": 
+	{
+		"in": "ptjy/zccx/ptjy_zccx.html",
+		"bys": 
+		[
+			"xpath:////li[text()='港币']"
+		]
+	},
+
+	"oTitleUSD": 
+	{
+		"in": "ptjy/zccx/ptjy_zccx.html",
+		"bys": 
+		[
+			"xpath:////li[text()='美元']"
+		]
+	},
+
+	"oTextKQ": 
+	{
+		"in": "ptjy/zccx/ptjy_zccx.html",
+		"bys": 
+		[
+			"xpath:////span[text()='可取']/following-sibling::span[1]"
+		]
+	},
+
+	"oTextKY": 
+	{
+		"in": "ptjy/zccx/ptjy_zccx.html",
+		"bys": 
+		[
+			"xpath:////span[text()='可用']/following-sibling::span[1]"
+		]
+	},
+
+	"oImgLoad": 
+	{
+		"in": "ptjy/zccx/ptjy_zccx.html",
+		"bys": 
+		[
+			"id://loading"
+		]
+	}
+}

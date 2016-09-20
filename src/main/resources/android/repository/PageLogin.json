@@ -1,0 +1,46 @@
+{
+	"oEditUser": 
+	{
+		"in": "WEBVIEW_0",
+		"bys": 
+		[
+			"id://khbz"
+		]
+	},
+
+	"oEditPwd": 
+	{
+		"in": "WEBVIEW_0",
+		"bys": 
+		[
+			"id://jymm"
+		]
+	},
+
+	"oEditVerCode": 
+	{
+		"in": "WEBVIEW_0",
+		"bys": 
+		[
+			"id://vertifyCode"
+		]
+	},
+
+	"oTextVerCode": 
+	{
+		"in": "WEBVIEW_0",
+		"bys": 
+		[
+			"id://checkCode"
+		]
+	},
+
+	"oBtnLogin": 
+	{
+		"in": "WEBVIEW_0",
+		"bys": 
+		[
+			"id://login-button"
+		]
+	}
+}

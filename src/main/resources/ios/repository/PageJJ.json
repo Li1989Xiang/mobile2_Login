@@ -1,0 +1,73 @@
+{
+	"oEditCode": 
+	{
+		"in": "kfsjj/jjjy/kfsjj_(jjrg|jjsg|jjsh).html",
+		"bys": 
+		[
+			"id://zqdm"
+		]
+	},
+
+	"oTextName": 
+	{
+		"in": "kfsjj/jjjy/kfsjj_(jjrg|jjsg|jjsh).html",
+		"bys": 
+		[
+			"id://zqmc"
+		]
+	},
+
+	"oEditNum": 
+	{
+		"in": "kfsjj/jjjy/kfsjj_(jjrg|jjsg|jjsh).html",
+		"bys": 
+		[
+			"id://price"
+		]
+	},
+
+	"oBtnTrade": 
+	{
+		"in": "kfsjj/jjjy/kfsjj_(jjrg|jjsg|jjsh).html",
+		"bys": 
+		[
+			"xpath:////div[@class='btn-bargain']/button"
+		]
+	},
+
+	"oTextPrice": 
+	{
+		"in": "kfsjj/jjjy/kfsjj_(jjrg|jjsg|jjsh).html",
+		"bys": 
+		[
+			"id://jjdwjz"
+		]
+	},
+
+	"oTextMoney": 
+	{
+		"in": "kfsjj/jjjy/kfsjj_(jjrg|jjsg|jjsh).html",
+		"bys": 
+		[
+			"id://kys"
+		]
+	},
+
+	"oTextNumber": 
+	{
+		"in": "kfsjj/jjjy/kfsjj_(jjrg|jjsg|jjsh).html",
+		"bys": 
+		[
+			"id://kys"
+		]
+	},
+
+	"oMsgRisk": 
+	{
+		"in": "kfsjj/jjjy/kfsjj_(jjrg|jjsg|jjsh).html",
+		"bys": 
+		[
+			"xpath:////td[text()='基金风险等级与客户等级不匹配,你是否要继续进行交易?']"
+		]
+	}
+}

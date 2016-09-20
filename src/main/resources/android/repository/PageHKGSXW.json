@@ -1,0 +1,100 @@
+{
+	"oEditCode2": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"id://edt_search"
+		]
+	},
+
+	"oTextFirstItem": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"id://txt_stockName"
+		]
+	},
+
+	"oBtnCancel": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"id://txt_search_cancle"
+		]
+	},
+
+	"oEditCode": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"xpath:////input[contains(@id, 'zqdm-input')]"
+		]
+	},
+
+	"oTextName": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"xpath:////p[@class='kmc-zqdm-zqmc']"
+		]
+	},
+
+	"oLabelYWLX": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"id://dropdown-label"
+		]
+	},
+
+	"oEditXWDM": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"id://xwdm"
+		]
+	},
+
+	"oLabelSBLX": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"xpath://(//label[@id='dropdown-label'])[2]"
+		]
+	},
+
+	"oEditWTBH": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"id://cdwtxh"
+		]
+	},
+
+	"oEditSBSL": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"id://sbsl"
+		]
+	},
+
+	"oBtnSubmit": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"xpath:////button[text()='提交']"
+		]
+	}
+}

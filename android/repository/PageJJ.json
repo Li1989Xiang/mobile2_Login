@@ -1,0 +1,73 @@
+{
+	"oEditCode": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"id://zqdm"
+		]
+	},
+
+	"oTextName": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"id://zqmc"
+		]
+	},
+
+	"oEditNum": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"id://price"
+		]
+	},
+
+	"oBtnTrade": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"xpath:////div[@class='btn-bargain']/button"
+		]
+	},
+
+	"oTextPrice": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"id://jjdwjz"
+		]
+	},
+
+	"oTextMoney": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"id://kys"
+		]
+	},
+
+	"oTextNumber": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"id://kys"
+		]
+	},
+
+	"oMsgRisk": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"xpath:////td[text()='基金风险等级与客户等级不匹配,你是否要继续进行交易?']"
+		]
+	}
+}

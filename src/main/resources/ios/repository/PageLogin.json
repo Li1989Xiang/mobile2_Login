@@ -1,0 +1,64 @@
+{
+	"oEditUser": 
+	{
+		"in": ".*_login.html",
+		"bys": 
+		[
+			"id://khbz"
+		]
+	},
+
+	"oEditPwd": 
+	{
+		"in": ".*_login.html",
+		"bys": 
+		[
+			"id://jymm"
+		]
+	},
+
+	"oEditVerCode": 
+	{
+		"in": ".*_login.html",
+		"bys": 
+		[
+			"id://vertifyCode"
+		]
+	},
+
+	"oTextVerCode": 
+	{
+		"in": ".*_login.html",
+		"bys": 
+		[
+			"id://checkCode"
+		]
+	},
+
+	"oBtnLogin": 
+	{
+		"in": ".*_login.html",
+		"bys": 
+		[
+			"id://login-button"
+		]
+	},
+
+	"oBtnOK": 
+	{
+		"in": ".*_login.html",
+		"bys": 
+		[
+			"xpath:////div[@class='modal-footer']/button[text()='确定']"
+		]
+	},
+
+	"oBtnMakeSure": 
+	{
+		"in": "ptjy/home/ptjy_(header|index).html",
+		"bys": 
+		[
+			"xpath:////button[text()='确定']"
+		]
+	}
+}

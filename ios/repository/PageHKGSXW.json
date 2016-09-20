@@ -1,0 +1,100 @@
+{
+	"oEditCode2": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"xpath:////UIATextField[@value='请输入股票代码/首字母']"
+		]
+	},
+
+	"oTextFirstItem": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"xpath:////UIATableCell"
+		]
+	},
+
+	"oBtnCancel": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"id://txt_search_cancle"
+		]
+	},
+
+	"oEditCode": 
+	{
+		"in": "ggt/gsxw/gsxw.html",
+		"bys": 
+		[
+			"xpath:////input[contains(@id, 'zqdm-input')]"
+		]
+	},
+
+	"oTextName": 
+	{
+		"in": "ggt/gsxw/gsxw.html",
+		"bys": 
+		[
+			"xpath:////p[@class='kmc-zqdm-zqmc']"
+		]
+	},
+
+	"oLabelYWLX": 
+	{
+		"in": "ggt/gsxw/gsxw.html",
+		"bys": 
+		[
+			"id://dropdown-label"
+		]
+	},
+
+	"oEditXWDM": 
+	{
+		"in": "ggt/gsxw/gsxw.html",
+		"bys": 
+		[
+			"id://xwdm"
+		]
+	},
+
+	"oLabelSBLX": 
+	{
+		"in": "ggt/gsxw/gsxw.html",
+		"bys": 
+		[
+			"xpath://(//label[@id='dropdown-label'])[2]"
+		]
+	},
+
+	"oEditWTBH": 
+	{
+		"in": "ggt/gsxw/gsxw.html",
+		"bys": 
+		[
+			"id://cdwtxh"
+		]
+	},
+
+	"oEditSBSL": 
+	{
+		"in": "ggt/gsxw/gsxw.html",
+		"bys": 
+		[
+			"id://sbsl"
+		]
+	},
+
+	"oBtnSubmit": 
+	{
+		"in": "ggt/gsxw/gsxw.html",
+		"bys": 
+		[
+			"xpath:////button[text()='提交']"
+		]
+	}
+}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="MobileSuite">
+	<listeners>
+		<listener class-name="mobile.listeners.TestListenerImpl" />
+		<listener class-name="mobile.listeners.ShowError" />
+		<listener class-name="mobile.preprocess.listener.Controller" />
+	</listeners>
+	
+	<test name="MobileTest">
+		<parameter name="TestB00ZCCX"		value="B00资金查询" />
+		<parameter name="TestB01GPMR"		value="B01股票买入" />
+		<parameter name="TestB02GPMC"		value="B02股票卖出" />
+		<parameter name="TestC01JJSG"		value="C01基金申购" />
+		<parameter name="TestC02JJRG"		value="C02基金认购" />
+		<parameter name="TestC03JJSH"		value="C03基金赎回" />
+		<parameter name="TestD01YZZZ"		value="D01银证转账" />
+		<parameter name="TestD02ZFHZ"		value="D02主辅划转" />
+		<parameter name="TestD03YJGJ"		value="D03一键归集" />
+		<parameter name="TestE00HKZCCX"		value="E00港股通资产查询" />
+		<parameter name="TestE01HKMR"		value="E01港股通买入" />
+		<parameter name="TestE02HKMC"		value="E02港股通卖出" />
+		<parameter name="TestE03HKBDZQ"		value="E03港股通标的证券" />
+		<parameter name="TestE04HKGSXW"		value="E04港股通公司行为" />
+		<parameter name="TestG02DBPMR"		value="G02担保品买入" />
+		<parameter name="TestG03DBPMC"		value="G03担保品卖出" />
+
+		<classes>
+			<!-- <class name="mobile.test.stage02.TestE03HKBDZQ" />
+			<class name="mobile.test.stage01.TestG02DBPMR" />
+			<class name="mobile.test.stage01.TestG03DBPMC" /> -->
+			
+			<class name="mobile.test.Test00Wait" />
+			<class name="mobile.test.stage01.TestB00ZCCX" />
+			<class name="mobile.test.stage01.TestB01GPMR" />
+			<class name="mobile.test.stage01.TestB02GPMC" />
+			<class name="mobile.test.stage01.TestC01JJSG" />
+			<class name="mobile.test.stage01.TestC02JJRG" />
+			<class name="mobile.test.stage01.TestC03JJSH" />
+			<class name="mobile.test.stage01.TestD01YZZZ" />
+			<class name="mobile.test.stage02.TestD02ZFHZ" />
+			<class name="mobile.test.stage02.TestD03YJGJ" />
+			<class name="mobile.test.stage02.TestE00HKZCCX" />
+			<class name="mobile.test.stage02.TestE01HKMR" />
+			<class name="mobile.test.stage02.TestE02HKMC" />
+			<class name="mobile.test.stage02.TestE04HKGSXW" />
+		</classes>
+	</test>
+</suite>

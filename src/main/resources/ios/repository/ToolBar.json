@@ -1,0 +1,45 @@
+{
+	"oBtnPTJY": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"xpath:////UIAButton[@name='普通交易']"
+		]
+	},
+
+	"oBtnRZRQ": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"xpath:////UIAButton[@name = '融资融券']"
+		]
+	},
+
+	"oBtnJY": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"xpath:////UIAButton[@name='交易']"
+		]
+	},
+	"oBtnWo": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"xpath:////UIAButton[@name='我']"
+		]
+	},
+
+	"oBtnBack": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"xpath:////UIAButton[@name='' and preceding-sibling::*[@name='返回']]"
+		]
+	}
+}

@@ -1,0 +1,74 @@
+{
+	"oBtnCancel": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"id://txt_search_cancle"
+		]
+	},
+
+	"oEditCode": 
+	{
+		"in": "(ptjy/wtxd/ptjy_(wtmr|wtmc)|rzrq/wtxd/rzrq_(ptmr|ptmc)).html",
+		"bys": 
+		[
+			"id://zqdm"
+		]
+	},
+
+	"oEditCode2": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"xpath:////UIATextField[@value='请输入股票代码/首字母']"
+		]
+	},
+
+	"oTextName": 
+	{
+		"in": "(ptjy/wtxd/ptjy_(wtmr|wtmc)|rzrq/wtxd/rzrq_(ptmr|ptmc)).html",
+		"bys": 
+		[
+			"id://zqmc"
+		]
+	},
+
+	"oEditPrice": 
+	{
+		"in": "(ptjy/wtxd/ptjy_(wtmr|wtmc)|rzrq/wtxd/rzrq_(ptmr|ptmc)).html",
+		"bys": 
+		[
+			"id://price"
+		]
+	},
+
+	"oEditNum": 
+	{
+		"in": "(ptjy/wtxd/ptjy_(wtmr|wtmc)|rzrq/wtxd/rzrq_(ptmr|ptmc)).html",
+		"bys": 
+		[
+			"id://volume"
+		]
+	},
+
+	"oBtnBuyorSell": 
+	{
+		"in": "(ptjy/wtxd/ptjy_(wtmr|wtmc)|rzrq/wtxd/rzrq_(ptmr|ptmc)).html",
+		"bys": 
+		[
+			"id://buy",
+			"xpath:////button[text()='买入' or text()='卖出']"
+		]
+	},
+
+	"oTextFirstItem": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"xpath:////UIATableCell"
+		]
+	}
+}

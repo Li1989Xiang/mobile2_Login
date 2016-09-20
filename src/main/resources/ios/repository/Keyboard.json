@@ -1,0 +1,19 @@
+{
+	"oViewKeyboard": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"xpath:////UIAButton[@name = '1']"
+		]
+	},
+
+	"oBtnClose": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"xpath:////UIAButton[@name = '1']/preceding-sibling::UIAButton[1]"
+		]
+	}
+}

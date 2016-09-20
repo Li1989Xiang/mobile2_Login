@@ -1,0 +1,19 @@
+{
+	"oBtnDBPMR": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"id://ptmr"
+		]
+	},
+
+	"oBtnDBPMC": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"id://ptmc"
+		]
+	}
+}

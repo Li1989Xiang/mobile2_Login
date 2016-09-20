@@ -1,0 +1,73 @@
+{
+	"oEditCode": 
+	{
+		"in": "ggt/wtmm/wtmr.html",
+		"bys": 
+		[
+			"xpath:////input[contains(@id, 'zqdm-input')]"
+		]
+	},
+
+	"oTextName": 
+	{
+		"in": "ggt/wtmm/wtmr.html",
+		"bys": 
+		[
+			"xpath:////p[@class='kmc-zqdm-zqmc']"
+		]
+	},
+
+	"oEditPrice": 
+	{
+		"in": "ggt/wtmm/wtmr.html",
+		"bys": 
+		[
+			"id://wtjg-input"
+		]
+	},
+
+	"oEditNum": 
+	{
+		"in": "ggt/wtmm/wtmr.html",
+		"bys": 
+		[
+			"id://kmmsl-input"
+		]
+	},
+
+	"oBtnTrade": 
+	{
+		"in": "ggt/wtmm/wtmr.html",
+		"bys": 
+		[
+			"xpath:////button[text()='买入' or text()='卖出']"
+		]
+	},
+
+	"oEditCode2": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"xpath:////UIATextField[@value='请输入股票代码/首字母']"
+		]
+	},
+
+	"oBtnCancel": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"id://txt_search_cancle"
+		]
+	},
+
+	"oTextFirstItem": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"xpath:////UIATableCell"
+		]
+	}
+}

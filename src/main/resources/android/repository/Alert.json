@@ -1,0 +1,28 @@
+{
+	"mControls": 
+	{
+		"in": "",
+		"bys": 
+		[
+			"xpath:////div[@class='modal-body']//td[count(descendant::*)=0]"
+		]
+	},
+
+	"oBtnOK": 
+	{
+		"in": "",
+		"bys": 
+		[
+			"xpath:////div[@class='modal-footer']/button[2]"
+		]
+	},
+
+	"oBtnCancel": 
+	{
+		"in": "",
+		"bys": 
+		[
+			"xpath:////div[@class='modal-footer']/button[1]"
+		]
+	}
+}

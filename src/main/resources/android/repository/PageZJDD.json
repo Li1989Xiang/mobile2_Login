@@ -1,0 +1,64 @@
+{
+	"oBtnCollect": 
+	{
+		"in": "WEBVIEW_0",
+		"bys": 
+		[
+			"xpath:////em[text()='一键归集']"
+		]
+	},
+
+	"oTextMoneys": 
+	{
+		"in": "WEBVIEW_0",
+		"bys": 
+		[
+			"xpath:////div[@class='line yhk']//dd[2]"
+		]
+	},
+
+	"oImgLoad": 
+	{
+		"in": "WEBVIEW_0",
+		"bys": 
+		[
+			"id://loading"
+		]
+	},
+
+	"oBtnSwitch": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"xpath:////img[@src='images/pic_zjdb_qieico.svg']"
+		]
+	},
+
+	"oEditNum": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"id://zcje"
+		]
+	},
+
+	"oEditPwd": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"id://zjmm"
+		]
+	},
+
+	"oBtnOK": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"xpath:////button[contains(text(), '确定')]"
+		]
+	}
+}

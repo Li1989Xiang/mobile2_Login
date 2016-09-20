@@ -1,0 +1,37 @@
+{
+	"oBtnPTJY": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"id://left_text"
+		]
+	},
+
+	"oBtnRZRQ": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"id://right_text"
+		]
+	},
+
+	"oBtnJY": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"xpath:////TextView[@id='tv_title' and @value='交易']"
+		]
+	},
+
+	"oBtnBack": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"id://abs__home_svgicon"
+		]
+	}
+}

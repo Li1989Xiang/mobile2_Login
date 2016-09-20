@@ -1,0 +1,10 @@
+{
+	"mSystemSetUp": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"xpath:////UIAStaticText[@name='系统设置']"
+		]
+	}
+}

@@ -1,0 +1,64 @@
+{
+	"oBtnGPMR": 
+	{
+		"in": "WEBVIEW_0",
+		"bys": 
+		[
+			"xpath:////label[text()='买入']"
+		]
+	},
+
+	"oBtnGPMC": 
+	{
+		"in": "WEBVIEW_0",
+		"bys": 
+		[
+			"xpath:////label[text()='卖出']"
+		]
+	},
+
+	"oBtnZCCX": 
+	{
+		"in": "WEBVIEW_0",
+		"bys": 
+		[
+			"xpath:////label[text()='资产查询']"
+		]
+	},
+
+	"oBtnYZZZ": 
+	{
+		"in": "WEBVIEW_0",
+		"bys": 
+		[
+			"id://pic_banktrans"
+		]
+	},
+
+	"oBtnJJ": 
+	{
+		"in": "WEBVIEW_0",
+		"bys": 
+		[
+			"id://pic_openfund"
+		]
+	},
+
+	"oBtnZJDD": 
+	{
+		"in": "WEBVIEW_0",
+		"bys": 
+		[
+			"id://pic_cash"
+		]
+	},
+
+	"oBtnGGT": 
+	{
+		"in": "WEBVIEW_0",
+		"bys": 
+		[
+			"id://pic_ggt"
+		]
+	}
+}

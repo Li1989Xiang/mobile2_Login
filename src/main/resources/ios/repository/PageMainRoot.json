@@ -1,0 +1,72 @@
+{
+	"oBtnGPMR": 
+	{
+		"in": "ptjy/home/ptjy_(header|index).html",
+		"bys": 
+		[
+			"xpath:////label[text()='买入']"
+		]
+	},
+
+	"oBtnGPMC": 
+	{
+		"in": "ptjy/home/ptjy_(header|index).html",
+		"bys": 
+		[
+			"xpath:////label[text()='卖出']"
+		]
+	},
+
+	"oBtnZCCX": 
+	{
+		"in": "ptjy/home/ptjy_(header|index).html",
+		"bys": 
+		[
+			"xpath:////label[text()='资产查询']"
+		]
+	},
+
+	"oBtnYZZZ": 
+	{
+		"in": "ptjy/home/ptjy_(header|index).html",
+		"bys": 
+		[
+			"id://pic_banktrans"
+		]
+	},
+
+	"oBtnJJ": 
+	{
+		"in": "ptjy/home/ptjy_(header|index).html",
+		"bys": 
+		[
+			"id://pic_openfund"
+		]
+	},
+
+	"oBtnZJDD": 
+	{
+		"in": "ptjy/home/ptjy_(header|index).html",
+		"bys": 
+		[
+			"id://pic_cash"
+		]
+	},
+
+	"oBtnGGT": 
+	{
+		"in": "ptjy/home/ptjy_(header|index).html",
+		"bys": 
+		[
+			"id://pic_ggt"
+		]
+	},
+	"oBtnLogOut": 
+	{
+		"in": "ptjy/home/ptjy_(header|index).html",
+		"bys": 
+		[
+			"xpath:////button[text()='退出当前交易账号']"
+		]
+	}
+}

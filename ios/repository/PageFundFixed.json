@@ -1,0 +1,204 @@
+{
+	"oTextDT": 
+	{
+		"in": "kfsjj/jjdts/jjdts.html",
+		"bys": 
+		[
+			"xpath:////a[contains(text(),'基金定投')]"
+		]
+	},
+
+	"oTextDS": 
+	{
+		"in": "kfsjj/jjdts/jjdts.html",
+		"bys": 
+		[
+			"xpath:////a[contains(text(),'基金定赎')]"
+		]
+	},
+	"oTextSQ": 
+	{
+		"in": "kfsjj/jjdts/jjdts.html",
+		"bys": 
+		[
+			"xpath:////footer/div/img"
+		]
+	},
+
+	"oEditCode": 
+	{
+		"in": "kfsjj/jjdts/dtssq.html",
+		"bys": 
+		[
+			"id://zqdm"
+		]
+	},
+	"oTextName": 
+	{
+		"in": "kfsjj/jjdts/dtssq.html",
+		"bys": 
+		[
+			"xpath:////label[text()='基金名称']/../following-sibling::div[1]/label"
+		]
+	},
+	"oTextPrice": 
+	{
+		"in": "kfsjj/jjdts/dtssq.html",
+		"bys": 
+		[
+			"xpath:////label[text()='基金净值']/../following-sibling::div[1]/label"
+		]
+	},
+	"oEditNumber": 
+	{
+		"in": "kfsjj/jjdts/dtssq.html",
+		"bys": 
+		[
+			"id://price"
+		]
+	},
+	"oBtnTime": 
+	{
+		"in": "kfsjj/jjdts/dtssq.html",
+		"bys": 
+		[
+			"xpath:////label[text()='扣款周期' or text()='赎回周期']/../following-sibling::div[1]/button"
+		]
+	},
+	"oBtnDescription": 
+	{
+		"in": "kfsjj/jjdts/dtssq.html",
+		"bys": 
+		[
+			"xpath:////label[text()='投资描述']/../following-sibling::div[1]/button"
+		]
+	},
+	"oTextMonth": 
+	{
+		"in": "kfsjj/jjdts/dtssq.html",
+		"bys": 
+		[
+			"xpath:////div[@class = 'zqSort']/div[contains(text(),'月')]"
+		]
+	},
+	"oTextWeek": 
+	{
+		"in": "kfsjj/jjdts/dtssq.html",
+		"bys": 
+		[
+			"xpath:////div[@class = 'zqSort']/div[contains(text(),'周')]"
+		]
+	},
+	"oMenuMonth": 
+	{
+		"in": "kfsjj/jjdts/dtssq.html",
+		"bys": 
+		[
+			"xpath:////div[@class='day']/li"
+		]
+	},
+	"oMenuWeek": 
+	{
+		"in": "kfsjj/jjdts/dtssq.html",
+		"bys": 
+		[
+			"xpath:////div[@class='week']/li"
+		]
+	},
+	"oBtnCondition": 
+	{
+		"in": "kfsjj/jjdts/dtssq.html",
+		"bys": 
+		[
+			"xpath:////label[text()='期满条件']/../following-sibling::div[1]/button"
+		]
+	},
+	"oBtnMark": 
+	{
+		"in": "kfsjj/jjdts/dtssq.html",
+		"bys": 
+		[
+			"xpath:////label[text()='巨额标志']/../following-sibling::div[1]/button"
+		]
+	},
+	"oMenuMark": 
+	{
+		"in": "kfsjj/jjdts/dtssq.html",
+		"bys": 
+		[
+			"xpath:////label[text()='巨额标志']/../following-sibling::div[1]/ul[1]/li"
+		]
+	},
+	"oMenuCondition": 
+	{
+		"in": "kfsjj/jjdts/dtssq.html",
+		"bys": 
+		[
+			"xpath:////label[text()='期满条件']/../following-sibling::div[1]/ul[1]/li"
+		]
+	},
+	"oMenuDescription": 
+	{
+		"in": "kfsjj/jjdts/dtssq.html",
+		"bys": 
+		[
+			"xpath:////label[text()='投资描述']/../following-sibling::div[1]/ul[1]/li"
+		]
+	},
+	"oEditBeginTime": 
+	{
+		"in": "kfsjj/jjdts/dtssq.html",
+		"bys": 
+		[
+			"id://ksrq"
+		]
+	},
+	"oEditEndTime": 
+	{
+		"in": "kfsjj/jjdts/dtssq.html",
+		"bys": 
+		[
+			"id://zzrq"
+		]
+	},
+	"oEditQMCS": 
+	{
+		"in": "kfsjj/jjdts/dtssq.html",
+		"bys": 
+		[
+			"id://qmcs"
+		]
+	},
+	"oEditQMJE": 
+	{
+		"in": "kfsjj/jjdts/dtssq.html",
+		"bys": 
+		[
+			"id://qmje"
+		]
+	},
+	"oBtnSG": 
+	{
+		"in": "kfsjj/jjdts/dtssq.html",
+		"bys": 
+		[
+			"xpath:////button[text()='申购']"
+		]
+	},
+	"oImgLoad": 
+	{
+		"in": "kfsjj/jjdts/jjdts.html",
+		"bys": 
+		[
+			"id://loading"
+		]
+	},
+	"oMsgRisk": 
+	{
+		"in": "kfsjj/jjdts/dtssq.html",
+		"bys": 
+		[
+			"xpath:////td[text()='基金风险等级与客户等级不匹配,你是否要继续进行交易?']"
+		]
+	}
+}

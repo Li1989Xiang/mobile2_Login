@@ -1,0 +1,10 @@
+{
+	"oTdFirstColumn": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"xpath://(//div[@id='kmc-superTable-scrollArea']/div[1]/table/tbody/tr/td//table/tbody/tr[1]/td[1])[position() < 15]"
+		]
+	}
+}

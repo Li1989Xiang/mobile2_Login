@@ -1,0 +1,46 @@
+{
+	"oTextConfirms": 
+	{
+		"in": "",
+		"bys": 
+		[
+			"xpath:////div[@class='kmc-alertDialog-content']//label"
+		]
+	},
+
+	"oBtnConfirmOK": 
+	{
+		"in": "",
+		"bys": 
+		[
+			"xpath:////button[text()='确定']"
+		]
+	},
+
+	"oTextMsgSuccess": 
+	{
+		"in": "",
+		"bys": 
+		[
+			"xpath://(//div[@class='kmc-alertDialog-content'])[last()]//label"
+		]
+	},
+
+	"oBtnOK": 
+	{
+		"in": "",
+		"bys": 
+		[
+			"xpath://(//button[text()='确定'])[2]"
+		]
+	},
+
+	"oTextMsgFail": 
+	{
+		"in": "",
+		"bys": 
+		[
+			"xpath:////div[@class='modal-body']//td"
+		]
+	}
+}

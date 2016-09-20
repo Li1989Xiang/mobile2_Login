@@ -1,0 +1,64 @@
+{
+	"oBtnCollect": 
+	{
+		"in": "ptjy/zjdd/ptjy_zjgj.html",
+		"bys": 
+		[
+			"xpath:////em[text()='一键归集']"
+		]
+	},
+
+	"oTextMoneys": 
+	{
+		"in": "ptjy/zjdd/ptjy_zjgj.html",
+		"bys": 
+		[
+			"xpath:////div[@class='line yhk']//dd[2]"
+		]
+	},
+
+	"oImgLoad": 
+	{
+		"in": "ptjy/zjdd/ptjy_zjgj.html",
+		"bys": 
+		[
+			"id://loading"
+		]
+	},
+
+	"oBtnSwitch": 
+	{
+		"in": "ptjy/zjdd/ptjy_zjdb.html",
+		"bys": 
+		[
+			"xpath:////img[@src='images/pic_zjdb_qieico.svg']"
+		]
+	},
+
+	"oEditNum": 
+	{
+		"in": "ptjy/zjdd/ptjy_zjdb.html",
+		"bys": 
+		[
+			"id://zcje"
+		]
+	},
+
+	"oEditPwd": 
+	{
+		"in": "ptjy/zjdd/ptjy_zjdb.html",
+		"bys": 
+		[
+			"id://zjmm"
+		]
+	},
+
+	"oBtnOK": 
+	{
+		"in": "ptjy/zjdd/ptjy_zjdb.html",
+		"bys": 
+		[
+			"xpath:////button[contains(text(), '确定')]"
+		]
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"oBtnSG": 
+	{
+		"in": "WEBVIEW_0",
+		"bys": 
+		[
+			"xpath:////label[text()='申购']"
+		]
+	},
+
+	"oBtnRG": 
+	{
+		"in": "WEBVIEW_0",
+		"bys": 
+		[
+			"xpath:////label[text()='认购']"
+		]
+	},
+
+	"oBtnSH": 
+	{
+		"in": "WEBVIEW_0",
+		"bys": 
+		[
+			"xpath:////label[text()='赎回']"
+		]
+	}
+}

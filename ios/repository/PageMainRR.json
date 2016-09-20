@@ -1,0 +1,19 @@
+{
+	"oBtnDBPMR": 
+	{
+		"in": "rzrq/home/rzrq_(header|index).html",
+		"bys": 
+		[
+			"id://ptmr"
+		]
+	},
+
+	"oBtnDBPMC": 
+	{
+		"in": "rzrq/home/rzrq_(header|index).html",
+		"bys": 
+		[
+			"id://ptmc"
+		]
+	}
+}

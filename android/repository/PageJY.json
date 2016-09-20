@@ -1,0 +1,73 @@
+{
+	"oBtnCancel": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"id://txt_search_cancle"
+		]
+	},
+
+	"oEditCode": 
+	{
+		"in": "WEBVIEW_0",
+		"bys": 
+		[
+			"id://zqdm"
+		]
+	},
+
+	"oEditCode2": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"id://edt_search"
+		]
+	},
+
+	"oTextName": 
+	{
+		"in": "WEBVIEW_0",
+		"bys": 
+		[
+			"id://zqmc"
+		]
+	},
+
+	"oEditNum": 
+	{
+		"in": "WEBVIEW_0",
+		"bys": 
+		[
+			"id://volume"
+		]
+	},
+
+	"oEditPrice": 
+	{
+		"in": "WEBVIEW_0",
+		"bys": 
+		[
+			"id://price"
+		]
+	},
+
+	"oBtnBuyorSell": 
+	{
+		"in": "WEBVIEW_0",
+		"bys": 
+		[
+			"xpath:////div[@class='btn-bargain']/button"
+		]
+	},
+
+	"oTextFirstItem": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"id://txt_stockName"
+		]
+	}
+}

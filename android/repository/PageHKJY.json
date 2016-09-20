@@ -1,0 +1,73 @@
+{
+	"oEditCode": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"xpath:////input[contains(@id, 'zqdm-input')]"
+		]
+	},
+
+	"oTextName": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"xpath:////p[@class='kmc-zqdm-zqmc']"
+		]
+	},
+
+	"oEditPrice": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"id://wtjg-input"
+		]
+	},
+
+	"oEditNum": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"id://kmmsl-input"
+		]
+	},
+
+	"oBtnTrade": 
+	{
+		"in": "WEBVIEW_1",
+		"bys": 
+		[
+			"xpath:////button[text()='买入' or text()='卖出']"
+		]
+	},
+
+	"oEditCode2": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"id://edt_search"
+		]
+	},
+
+	"oBtnCancel": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"id://txt_search_cancle"
+		]
+	},
+
+	"oTextFirstItem": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"id://txt_stockName"
+		]
+	}
+}

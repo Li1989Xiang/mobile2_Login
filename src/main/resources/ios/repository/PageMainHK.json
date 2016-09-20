@@ -1,0 +1,55 @@
+{
+	"oImgLoad": 
+	{
+		"in": "ggt/home/home.html",
+		"bys": 
+		[
+			"xpath:////div[@class='loading-div']"
+		]
+	},
+
+	"oBtnMR": 
+	{
+		"in": "ggt/home/home.html",
+		"bys": 
+		[
+			"xpath:////label[text()='买入']"
+		]
+	},
+
+	"oBtnMC": 
+	{
+		"in": "ggt/home/home.html",
+		"bys": 
+		[
+			"xpath:////label[text()='卖出']"
+		]
+	},
+
+	"oBtnZCCX": 
+	{
+		"in": "ggt/home/home.html",
+		"bys": 
+		[
+			"xpath:////label[text()='资产查询']"
+		]
+	},
+
+	"oBtnBDZQ": 
+	{
+		"in": "ggt/home/home.html",
+		"bys": 
+		[
+			"xpath:////label[text()='标的证券查询']"
+		]
+	},
+
+	"oBtnGSXW": 
+	{
+		"in": "ggt/home/home.html",
+		"bys": 
+		[
+			"xpath:////label[text()='公司行为']"
+		]
+	}
+}

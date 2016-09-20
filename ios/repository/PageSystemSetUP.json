@@ -1,0 +1,26 @@
+{
+	"oBtnChangePoint": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"xpath:////UIAStaticText[@name='切换站点']"
+		]
+	},
+	"oListPoint":
+	{
+		"in":"NATIVE_APP",
+		"bys":
+		[
+			"xpath:////UIATableCell"
+		]
+	},
+	"oBtnOK":
+	{
+		"in":"NATIVE_APP",
+		"bys":
+		[
+			"xpath:////UIAButton[@name = '确定']"
+		]
+	}
+}
